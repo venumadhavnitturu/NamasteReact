@@ -1,0 +1,9 @@
+Homeworks - 
+
+Episode 01 :
+
+What is CDN ? 
+
+What is crossorigin ? 
+
+Check React and ReactDom objects in the console. 
