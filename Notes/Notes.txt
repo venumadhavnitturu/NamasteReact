@@ -1,2 +1,19 @@
 
 Namaste React Notes - 
+JSX :
+JSX is not HTML in JavaScript.
+JSX will be transpiling to React.createElement end of the day.
+JSX -> React.createElement -> JavaScriptObject -> HTML Element.
+In JSX class name need to write like className="", In html we write class="" like this.
+ALl this transpiling is done by Babel.
+Inside JSX you can write JavaScript inside curly braces {}, whatever you write inside {} this will be sanitized and compiled.
+
+What is the component ? : 
+In two ways we can create React Components. 
+Class based component. OLD 
+Functional based component. NEW
+What is Component Composition ? 
+Using one component inside another component is called component composition.
+
+
+Config Driven Design

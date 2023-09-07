@@ -7,3 +7,5 @@ What is CDN ?
 What is crossorigin ? 
 
 Check React and ReactDom objects in the console. 
+
+What will happen if we use default export and named export in the same file.
